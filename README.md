@@ -43,10 +43,10 @@ A Google Maps widget has been added to the Contact Us page to facilitate easier 
 **Email:** 202280271@psu.palawan.edu.ph
 
 <a href="https://www.facebook.com/meighelnicolle.padon/">
-  <img src="image/Facebook.png" alt="Facebook" width="50"/>
+  <img src="image/Facebook.png" alt="Facebook" width="25"/>
 </a>
 <a href="https://github.com/Meighel">
-  <img src="image/Github.png" alt="GitHub" width="50"/>
+  <img src="image/Github.png" alt="GitHub" width="25"/>
 </a>
 
 
@@ -56,8 +56,8 @@ A Google Maps widget has been added to the Contact Us page to facilitate easier 
 **Email:** 202280039@psu.palawan.edu.ph
 
 <a href="https://www.facebook.com/carlajane.lagan">
-  <img src="image/Facebook.png" alt="Facebook" width="50"/>
+  <img src="image/Facebook.png" alt="Facebook" width="25"/>
 </a>
 <a href="https://github.com/engjanerllx">
-  <img src="image/Github.png" alt="GitHub" width="50"/>
+  <img src="image/Github.png" alt="GitHub" width="25"/>
 </a>
