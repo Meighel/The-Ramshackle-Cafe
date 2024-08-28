@@ -11,10 +11,45 @@ The Ramshackle Cafe is a virtual cafe website crafted with HTML and CSS, offerin
 
 ### Screen Captures
 
+<p align="center">
+  <img src="image/ss1.png" alt="screenshot-1" width="200"/>
+</p>
+
+The website features a responsive slider with navigation bullets for easy access.
+
+<p align="center">
+  <img src="image/ss2.png" alt="screenshot-2" width="200"/>
+</p>
+
+The home page features three popular menu items that animate when the cursor hovers over them.
+
+<p align="center">
+  <img src="image/ss3.png" alt="screenshot-3" width="200"/>
+</p>
+
+The footer has a gradient background with a continuously moving line beneath the headings.
+
+<p align="center">
+  <img src="image/ss4.png" alt="screenshot-4" width="200"/>
+</p>
+
+A Google Maps widget has been added to the Contact Us page to facilitate easier navigation to the cafe.
+
 #### About the Authors
+
+<img src="https://avatars.githubusercontent.com/u/120162915?s=400&u=636fdf16caca0e3303a9487f7d699e7a708a3c1c&v=4" alt="dpmage" width="150" style="border-radius: 50%;">
 
 **Name:** Meighel Nicolle Padon <br>
 **Email:** 202280271@psu.palawan.edu.ph
 
+[![Logo](image/Facebook.png)](https://www.facebook.com/meighelnicolle.padon/)
+[![Logo](image/Github.png)](https://github.com/Meighel)
+
+
+<img src="https://avatars.githubusercontent.com/u/147321293?v=4" alt="dpcarla" width="150" style="border-radius: 50%;">
+
 **Name:** Carla Jane Lagan <br>
 **Email:** 202280039@psu.palawan.edu.ph
+
+[![Logo](image/Facebook.png)](https://www.facebook.com/carlajane.lagan)
+[![Logo](image/Github.png)](https://github.com/engjanerllx)
