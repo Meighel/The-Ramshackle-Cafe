@@ -48,7 +48,8 @@ A Google Maps widget has been added to the Contact Us page to facilitate easier 
 <a href="https://github.com/Meighel">
   <img src="image/Github.png" alt="GitHub" width="25"/>
 </a>
-
+<br>
+<br>
 
 <img src="https://avatars.githubusercontent.com/u/147321293?v=4" alt="dpcarla" width="150" style="border-radius: 50%; display: block;">
 
