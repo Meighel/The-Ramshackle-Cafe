@@ -37,19 +37,27 @@ A Google Maps widget has been added to the Contact Us page to facilitate easier 
 
 #### About the Authors
 
-<img src="https://avatars.githubusercontent.com/u/120162915?s=400&u=636fdf16caca0e3303a9487f7d699e7a708a3c1c&v=4" alt="dpmage" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/120162915?s=400&u=636fdf16caca0e3303a9487f7d699e7a708a3c1c&v=4" alt="dpmage" width="150" style="border-radius: 50%; display: block;">
 
 **Name:** Meighel Nicolle Padon <br>
 **Email:** 202280271@psu.palawan.edu.ph
 
-[![Logo](image/Facebook.png)](https://www.facebook.com/meighelnicolle.padon/)
-[![Logo](image/Github.png)](https://github.com/Meighel)
+<a href="https://www.facebook.com/meighelnicolle.padon/">
+  <img src="image/Facebook.png" alt="Facebook" width="50"/>
+</a>
+<a href="https://github.com/Meighel">
+  <img src="image/Github.png" alt="GitHub" width="50"/>
+</a>
 
 
-<img src="https://avatars.githubusercontent.com/u/147321293?v=4" alt="dpcarla" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/147321293?v=4" alt="dpcarla" width="150" style="border-radius: 50%; display: block;">
 
 **Name:** Carla Jane Lagan <br>
 **Email:** 202280039@psu.palawan.edu.ph
 
-[![Logo](image/Facebook.png)](https://www.facebook.com/carlajane.lagan)
-[![Logo](image/Github.png)](https://github.com/engjanerllx)
+<a href="https://www.facebook.com/carlajane.lagan">
+  <img src="image/Facebook.png" alt="Facebook" width="50"/>
+</a>
+<a href="https://github.com/engjanerllx">
+  <img src="image/Github.png" alt="GitHub" width="50"/>
+</a>
