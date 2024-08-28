@@ -12,25 +12,25 @@ The Ramshackle Cafe is a virtual cafe website crafted with HTML and CSS, offerin
 ### Screen Captures
 
 <p align="center">
-  <img src="image/ss1.png" alt="screenshot-1" width="200"/>
+  <img src="image/ss1.png" alt="screenshot-1" width="600"/>
 </p>
 
 The website features a responsive slider with navigation bullets for easy access.
 
 <p align="center">
-  <img src="image/ss2.png" alt="screenshot-2" width="200"/>
+  <img src="image/ss2.png" alt="screenshot-2" width="600"/>
 </p>
 
 The home page features three popular menu items that animate when the cursor hovers over them.
 
 <p align="center">
-  <img src="image/ss3.png" alt="screenshot-3" width="200"/>
+  <img src="image/ss3.png" alt="screenshot-3" width="600"/>
 </p>
 
 The footer has a gradient background with a continuously moving line beneath the headings.
 
 <p align="center">
-  <img src="image/ss4.png" alt="screenshot-4" width="200"/>
+  <img src="image/ss4.png" alt="screenshot-4" width="600"/>
 </p>
 
 A Google Maps widget has been added to the Contact Us page to facilitate easier navigation to the cafe.
