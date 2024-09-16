@@ -154,10 +154,16 @@ nav a:hover {
 
 .owner-container {
     margin-bottom: 20px;
+    margin-left: 20px;
 }
 
 .owner-container p {
     margin-bottom: 3px;
+    font-size: small;
+}
+
+.owner-container #instruct {
+    margin-left: 20px;
 }
 
 .owner-container a{
